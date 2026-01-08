@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-//this TEST
+
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
